@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "NYU-GoRide",
+    "slug": "NYU-GoRide",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "NYU-GoRide"
+}
